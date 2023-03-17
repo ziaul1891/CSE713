@@ -1,1 +1,17 @@
+Link to unlisted YouTube video:
 
+
+Public link to the slide (Anyone on the internet can view without login):
+https://docs.google.com/presentation/d/1LdjR_A40a7Ux16zRU5o-hOqN9anB-ah7Rxn56IrWI2o/edit?usp=sharing
+
+Paper title:
+Recognition of esophagitis in endoscopic images using transfer learning
+
+Link to the paper:
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9157692/
+
+Group Number:
+0
+
+Individual Submitter:
+12345678 Name A
