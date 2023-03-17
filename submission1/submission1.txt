@@ -1,5 +1,5 @@
 Overleaf link with edit access to ST, RA and my gmail.
-https://www.overleaf.com/project/....
+https://www.overleaf.com/project/64132657af9f9fb47c536195
 
 Link to unlisted YouTube video:
 https://youtube.com/.....
@@ -9,9 +9,7 @@ https://docs.google.com/presentation/.....
 
 Project title:
 Deep Learning Based Appraoch for Gastrointestinal Disease Detection with XAI"
-	
-			
-
+				
 Group Number:
 8
 
