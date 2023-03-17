@@ -2,10 +2,10 @@ Overleaf link with edit access to ST, RA and my gmail.
 https://www.overleaf.com/project/64132657af9f9fb47c536195
 
 Link to unlisted YouTube video:
-https://youtube.com/.....
+
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/1E3APIAwHBtveGmjNPLNE2nsWbp9VDIXjT86Q0dur3Es/edit?usp=sharing
 
 Project title:
 Deep Learning Based Appraoch for Gastrointestinal Disease Detection with XAI"
