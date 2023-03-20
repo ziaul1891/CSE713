@@ -3,14 +3,11 @@ Chapter 7: 	Neural Networks and Neural Language Models
 
 
 Link to unlisted youtube video: 
-
-
+https://youtu.be/cv9rNYiM26k
 
 Two public link to the Concept Map (anyone on the internet can view without login): 
-1:
-2:
-
-
+1: https://drive.google.com/file/d/15v4Y8ZnKF26heo5IEesbKRdtlq7_QxQs/view?usp=sharing
+2: https://github.com/ziaul1891/CSE713/blob/main/submission3/CSE713%20Group%208%20Concept%20Map%20SLP3%20Chapter%207.pdf
 
 Name, Author, Edition, year and publisher of the Book: 
 Name: Speech and Language Processing
