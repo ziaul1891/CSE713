@@ -1,7 +1,6 @@
 Submission 3: Book chapter presentation
 Chapter 7: 	Neural Networks and Neural Language Models
 
-
 Link to unlisted youtube video: 
 https://youtu.be/cv9rNYiM26k
 
