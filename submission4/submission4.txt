@@ -2,7 +2,7 @@ Paper title:
 Deep Learning Based Appraoch for Gastrointestinal Disease Detection with XAI
 
 Link to unlisted YouTube video:
-
+https://youtu.be/6leZB6ctgWY
 
 Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/d/1VkkUsNCNITUyKmtfOWToRnmRBjSIVHaPD50_sp1XGig/edit?usp=sharing
