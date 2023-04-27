@@ -1,0 +1,19 @@
+Paper title:
+Deep Learning Based Appraoch for Gastrointestinal Disease Detection with XAI
+
+Link to unlisted YouTube video:
+https://youtu.be/YQBVEXP5YPE
+
+Public link to the slide (Anyone on the internet can view without login):
+https://docs.google.com/presentation/d/1pO8tSdSLV47Dbm8zyUGkPIN_VvRSyTwQanPgvohsMPk/edit?usp=sharing
+
+Overleaf link:
+https://www.overleaf.com/project/64132657af9f9fb47c5361955
+
+Group Number:
+8
+
+Group Members:
+23166013	Tasfia Anika Bushra
+23166015	Dewan Ziaul Karim
+23166017	Shoaib Ahmed Dipu
